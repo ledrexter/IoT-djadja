@@ -1,0 +1,7 @@
+../Core/Src/W5500HardwareDriver.c:22:6:W5500HardwareInitilize	32	static,ignoring_inline_asm
+../Core/Src/W5500HardwareDriver.c:64:6:W5500Initialze	40	static,ignoring_inline_asm
+../Core/Src/W5500HardwareDriver.c:91:6:W5500HardwareReset	24	static
+../Core/Src/W5500HardwareDriver.c:103:6:W5500WriteByte	16	static
+../Core/Src/W5500HardwareDriver.c:109:15:W5500ReadByte	16	static
+../Core/Src/W5500HardwareDriver.c:119:6:W5500Select	8	static
+../Core/Src/W5500HardwareDriver.c:123:6:W5500DeSelect	8	static
